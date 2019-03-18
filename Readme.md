@@ -2,11 +2,13 @@
 
 ### 1. Dashboard Project
 
-![34634623423523](C:\Users\monst\Desktop\34634623423523.png)
+![34634623423523](https://user-images.githubusercontent.com/33567964/54540369-3d806180-49db-11e9-9cc3-e119b77edf90.png)
 
 
 
-![457484584](C:\Users\monst\Desktop\457484584.png)
+
+![457484584](https://user-images.githubusercontent.com/33567964/54540401-4a9d5080-49db-11e9-919c-7c15aa803848.png)
+
 
 **BUILT WITH**
 Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
@@ -15,6 +17,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 홈페이지, 대쉬보드에 들어가는 모든 기능을 담아보려고 노력했습니다.
 
 **DEMO**
+
 [Dashboard Proejct 바로가기](http://13.125.245.204:9000/)
 
 **PROJECT MANAGEMENT**
