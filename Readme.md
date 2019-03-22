@@ -74,6 +74,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 ### 2. REMIIT Project (9개월 - 프론트엔드)
 
+![cap](https://user-images.githubusercontent.com/25717616/54812195-e37ae700-4ccd-11e9-8e69-2a695379c553.png)
 
 
 
