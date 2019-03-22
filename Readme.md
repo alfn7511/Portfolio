@@ -68,9 +68,9 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 + 공헌 히스토리 기능 개발,
 + 다중소팅 기능 개발
 
+<br>
 
-
-
+<br>
 
 ### 2. REMIIT Project (9개월 - 프론트엔드)
 
@@ -203,7 +203,9 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 
 
+<br>
 
+<br>
 
 ### 2. 개인 강의 (7개월 - 진행중)
 
