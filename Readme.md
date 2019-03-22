@@ -18,7 +18,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 **DEMO**
 
-[Dashboard Proejct 바로가기](http://13.125.245.204:9000/)
+[Dashboard Proejct 바로가기](http://13.209.89.204:9000/)
 
 **PROJECT MANAGEMENT**
 
