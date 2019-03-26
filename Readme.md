@@ -5,9 +5,8 @@
 ![34634623423523](https://user-images.githubusercontent.com/33567964/54540369-3d806180-49db-11e9-9cc3-e119b77edf90.png)
 
 
+![468484584](https://user-images.githubusercontent.com/33567964/55025415-3cd37500-5044-11e9-96f4-681e7ce84e34.png)
 
-
-![37373462](https://user-images.githubusercontent.com/33567964/55012752-3a185600-502b-11e9-983b-0e3d69df9d00.png)
 
 **BUILT WITH**
 Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
