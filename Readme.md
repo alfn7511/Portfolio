@@ -7,8 +7,7 @@
 
 
 
-![346734734672](https://user-images.githubusercontent.com/33567964/55007629-16e9a880-5023-11e9-8727-baa6fcd7a06b.png)
-
+![37373462](https://user-images.githubusercontent.com/33567964/55012752-3a185600-502b-11e9-983b-0e3d69df9d00.png)
 
 **BUILT WITH**
 Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
