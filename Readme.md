@@ -2,11 +2,19 @@
 
 ### 1. Dashboard Project  (진행중 - 풀스택)
 
+![468484584](https://user-images.githubusercontent.com/33567964/55025415-3cd37500-5044-11e9-96f4-681e7ce84e34.png)
+
+![erherhwerhw](https://user-images.githubusercontent.com/33567964/55092374-d7d85780-50f5-11e9-9a49-44f63a5754ee.png)
+
 ![34634623423523](https://user-images.githubusercontent.com/33567964/54540369-3d806180-49db-11e9-9cc3-e119b77edf90.png)
 
 
-![468484584](https://user-images.githubusercontent.com/33567964/55025415-3cd37500-5044-11e9-96f4-681e7ce84e34.png)
+![rtjrtjrtjeew](https://user-images.githubusercontent.com/33567964/55092382-dad34800-50f5-11e9-82e5-56c794cced2a.png)
 
+
+![rtjrtjeje](https://user-images.githubusercontent.com/33567964/55092380-d9a21b00-50f5-11e9-91ae-b4dfe39c1df9.png)
+
+![etjetje](https://user-images.githubusercontent.com/33567964/55092384-dc047500-50f5-11e9-994f-85cc3cdb8f20.png)
 
 **BUILT WITH**
 Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
