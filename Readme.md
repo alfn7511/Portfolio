@@ -40,7 +40,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 - Nodejs - gulp, lodash, passport, https, express, redis, axios, unirest, multer, react(part), express-session, cashing, crawroling, Meth.js, firebase, mysql, NODE_ENV, async, promise, xss, runscript, babel, i18n, uuid, bcrypt, helmet, os, axios, kill-port, morgan, node-cron, nodemailer, cookie-session, better-npm-run, env preset, winston, logger, npm script, axios, promise, babel, http, helmet, node-cron, nodemailer, os, utf8, async,  ...
 - Bundler - Gulp, Webpack, Npm, Yarn
 - FrameWork - Express, Bootstrab
-- library - React, Semantic UI, JQuery, Many Graph Charts,
+- library -  Semantic UI, JQuery, Many Graph Charts,
 - Javascript - ES6, ES7, ES8, DOM API, Event Loop, Anysn Await, Promise, None-blocking I/O, Http Shadow, Browswer Workd, Prototype, Cluster, cors, Https, Ajax, Axios, Xss, Amp, common js, GraphQL, Single Thread, Rest API, Restful API, eslint, prettier, npm script, taskrunner, Pattern( module, factory ... 
 - Crontab, Linux Scheduling
 
