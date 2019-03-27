@@ -37,8 +37,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 - Mark Up - Accessibility, Standardity, SEO, HTML5, Semantic
 - Css - CSS3, CSS2, Css/Scss, Response, Adaptive, Cross Browsing( Level >= ie7 ), Grid layout, Flex, Box model, Position, Float, BEM, Animation, ,Css Module,
 - Scss Stack : Function, If, Mixin, Mapping, Nest, Anpercent, Variable, inShap, Scope, extend, import, flow controls, Flag, iter
-- Nodejs - unirest, passport, xss, i18n, dotenv, session, cookie, logger, path, router, pattern, jwt, uuid, bcrypt ...,
-- Mysql
+- Nodejs - gulp, lodash, passport, https, express, redis, axios, unirest, multer, react(part), express-session, cashing, crawroling, Meth.js, firebase, mysql, NODE_ENV, async, promise, xss, runscript, babel, i18n, uuid, bcrypt, helmet, os, axios, kill-port, morgan, node-cron, nodemailer, cookie-session, better-npm-run, env preset, winston, logger, npm script, axios, promise, babel, http, helmet, node-cron, nodemailer, os, utf8, async,  ...
 - Bundler - Gulp, Webpack, Npm, Yarn
 - FrameWork - Express, Bootstrab
 - library - React, Semantic UI, JQuery, Many Graph Charts,
