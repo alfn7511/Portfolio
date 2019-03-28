@@ -16,8 +16,9 @@
 
 ![etjetje](https://user-images.githubusercontent.com/33567964/55092384-dc047500-50f5-11e9-994f-85cc3cdb8f20.png)
 
-![ezgif-2-4868657aef0e](https://user-images.githubusercontent.com/33567964/55139227-96d55700-5178-11e9-9a94-580a1569ff7c.gif)
-
+<center>
+  <img src="https://user-images.githubusercontent.com/33567964/55139227-96d55700-5178-11e9-9a94-580a1569ff7c.gif" style="width:90%;margin:'auto'">
+</center>
 
 **BUILT WITH**
 Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
