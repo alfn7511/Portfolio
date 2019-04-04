@@ -259,7 +259,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 ## Members
 
-+ 이준영, 박소희
++ 이준영, 박소희, 김다정, 정혜원, 서보미, 
 
 
 ## Tech/framework used
@@ -357,13 +357,28 @@ Javascript, Node JS, Express, Ejs ,Bootstrap, jQuery, 시멘틱 ui, Mysql, React
 
 ### 3달
 
-> 9주차
+> **9주차**
 
 + 모던 자바스크립트 입문 - 1 ~ 4장 (객체와 배열, 함수의 기초 까지)
 
-+ 진도나가다가 중간중간 시험보기, 되짚기, 질문하기.
++ 진도나가다가 중간중간 시험보기, 되짚기, 질문하기
 
+> **10주차**
 
++ 복습 + 5장 표현식과 연산자 ~ 6장 웹브라우저에서의 입출력
+
+> **11주차**
+
++ 첫날은 복습 + 페이지네이션 기본원리
++ 7장 제어 구문 ~8장 함수
+
+> **12주차**
+
++ 7~8장 제어문과 함수 최대한 하기.
+
+> **13주차**
+
++ 8장 함수 까지 진행하는데 9장객체 들어갈수 있으면 들어가기
 
 
 # Publisher Curriculum (success !)
@@ -376,7 +391,7 @@ Javascript, Node JS, Express, Ejs ,Bootstrap, jQuery, 시멘틱 ui, Mysql, React
 | ------------------ | ------------------------------------------------------------ | ------- | ------- |
 | 1주차 html 시험    |                                                              |         |         |
 | 2주차 html 시험    | [링크](https://docs.google.com/spreadsheets/d/1G8dxWoL4SDAEbJwl7juh7Lcw236EIY8RsX_SbDtntCc/edit#gid=2057394383) |         |         |
-| 3주차 html,css시험 | [링크](https://docs.google.com/spreadsheets/d/1YsAKBMNc08L6FhRDc3LzT4udtEGICo3_zJoxXjfXNus/edit#gid=0) |         |         |
+| 3주차 html,css시험 |      |         |         |
 | 4주차 html시험     |                                                              |         |         |
 
 
