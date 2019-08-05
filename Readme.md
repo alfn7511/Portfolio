@@ -36,7 +36,7 @@ React, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
 + C++ 연동 관련 모든 통신을 Web worker, Socket.io를 이용한 양방향 통신 모듈 개발
 + 페이지 3개를 한화면에 연동
 + Clusting, Debounce를 사용한 비동기 웹 치아 프로그램 모듈 개발
-+ 
++ Socket.io를 이용한 채팅 개발 (사진전송 가능)
 
 <br><br>
 
