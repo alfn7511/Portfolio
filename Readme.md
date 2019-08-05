@@ -1,7 +1,7 @@
 # PORTFOLIO of Phantom05 
 
 
-### 1. DOF 
+### 1. DOF 연구소
 
 **BUILT WITH**
 React, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
@@ -38,7 +38,7 @@ React, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
 + Clusting, Debounce를 사용한 비동기 웹 치아 프로그램 모듈 개발
 + 
 
-
+<br><br>
 
 ### 2. Dashboard Project  (진행중 - 풀스택)
 
@@ -122,7 +122,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 <br>
 
-### 3. REMIIT Project (9개월 - 프론트엔드)
+### 3. REMIIT Project
 
 ![cap](https://user-images.githubusercontent.com/25717616/54812195-e37ae700-4ccd-11e9-8e69-2a695379c553.png)
 
