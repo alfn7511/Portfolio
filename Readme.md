@@ -1,6 +1,49 @@
 # PORTFOLIO of Phantom05 
 
-### 1. Dashboard Project  (진행중 - 풀스택)
+
+### 1. DOF 
+
+**BUILT WITH**
+React, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
+
+**CONCEPT**
+홈페이지, 대쉬보드에 들어가는 모든 기능을 담아보려고 노력했습니다.
+
+**DEMO**
+
+[Dashboard Proejct 바로가기](http://13.209.89.204:9000/)
+**AWS 비용 청구로 서버 빼놨음, GCP로 이전 작업 중**
+
+**PROJECT MANAGEMENT**
+
+[Management 바로가기](https://github.com/users/Phantom05/projects/1)
+
+**USE STACK**
+
+- CM - Git, Gitlab
+- Mark Up - Accessibility, Standardity, SEO, HTML5, Semantic
+- Css - CSS3, CSS2, Css/Scss, Response, Adaptive, Cross Browsing( Level >= ie7 ), Grid layout, Flex, Box model, Position, Float, BEM, Animation, ,Css Module,
+- Scss Stack : Function, If, Mixin, Mapping, Nest, Anpercent, Variable, inShap, Scope, extend, import, flow controls, Flag, iter
+- Nodejs - gulp, lodash, passport, https, express, redis, axios, unirest, multer, react(part), express-session, cashing, crawroling, Meth.js, firebase, mysql, NODE_ENV, async, promise, xss, runscript, babel, i18n, uuid, bcrypt, helmet, os, axios, kill-port, morgan, node-cron, nodemailer, cookie-session, better-npm-run, env preset, winston, logger, npm script, axios, promise, babel, http, helmet, node-cron, nodemailer, os, utf8, async,  ...
+- Bundler - Gulp, Webpack, Npm, Yarn
+- FrameWork - Express, Bootstrab
+- library -  Semantic UI, JQuery, Many Graph Charts,
+- Javascript - ES6, ES7, ES8, DOM API, Event Loop, Anysn Await, Promise, None-blocking I/O, Http Shadow, Browswer Workd, Prototype, Cluster, cors, Https, Ajax, Axios, Xss, Amp, common js, GraphQL, Single Thread, Rest API, Restful API, eslint, prettier, npm script, taskrunner, Pattern( module, factory ... 
+- Crontab, Linux Scheduling
+
+- Communication -  Microsoft daouoffice, Microsoft Teams, Postman, Zira, Figma, Adobe xd, Google spreadsheets, Sourcetree, Google Analytics, Todolist, Markdown MD, MD Documentation
+
+**USE FUNCTION.**
+
++ C++ 과 연동한 비인터넷 상황 데이터 통신 모듈 개발
++ C++ 연동 관련 모든 통신을 Web worker, Socket.io를 이용한 양방향 통신 모듈 개발
++ 페이지 3개를 한화면에 연동
++ Clusting, Debounce를 사용한 비동기 웹 치아 프로그램 모듈 개발
++ 
+
+
+
+### 2. Dashboard Project  (진행중 - 풀스택)
 
 ![468484584](https://user-images.githubusercontent.com/33567964/55025415-3cd37500-5044-11e9-96f4-681e7ce84e34.png)
 
@@ -82,7 +125,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 <br>
 
-### 2. REMIIT Project (9개월 - 프론트엔드)
+### 3. REMIIT Project (9개월 - 프론트엔드)
 
 ![cap](https://user-images.githubusercontent.com/25717616/54812195-e37ae700-4ccd-11e9-8e69-2a695379c553.png)
 
@@ -218,7 +261,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 <br>
 
-### 2. 개인 강의 (7개월 - 진행중)
+### 4. 개인 강의 (11개월 - 진행중)
 
 
 
