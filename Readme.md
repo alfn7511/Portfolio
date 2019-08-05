@@ -37,6 +37,7 @@ React, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
 + 페이지 3개를 한화면에 연동
 + Clusting, Debounce를 사용한 비동기 웹 치아 프로그램 모듈 개발
 + Socket.io를 이용한 채팅 개발 (사진전송 가능)
++ 70페이지 분량 홈페이지 프론트 개발
 
 <br><br>
 
