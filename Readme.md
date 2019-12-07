@@ -4,7 +4,7 @@
 ### 1. DOF 연구소
 
 **BUILT WITH**
-React, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
+React, Redux, Redux-saga, Mobx, Websocket, Webworker, qwebchannel, Webpack, Nodejs, Gulp, AWS로 개발하였습니다.
 
 **CONCEPT**
 심도 깊은 자바스크립트 연구를 하기 위해 노력했습니다.
