@@ -259,7 +259,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 <br>
 
-### 4. 개인 강의 (12개월 - 종료)
+### 4. 개인 과외 (12개월 - 종료) 2018.12.23 ~ 2019.11.31
 
 
 
@@ -312,7 +312,7 @@ Javascript, Node JS, Express, Ejs ,Bootstrap, jQuery, 시멘틱 ui, Mysql, React
 ### FRONT-END Curriculum (Textbook: Learning JavaScript, Inside JavaScript) - (Proceeding)
 
 <hr>
-```Curriculum stage```
+***Curriculum stage***
 
 <kbd>W3C and Kizi 16 Toy Project</kbd> => <kbd>Book Front-End-Lecture</kbd>
 
@@ -457,16 +457,6 @@ Javascript, Node JS, Express, Ejs ,Bootstrap, jQuery, 시멘틱 ui, Mysql, React
 
 ## Process Status 
 
-**1달**
-
-| Date               | Link                                                         | Default | PurPose |
-| ------------------ | ------------------------------------------------------------ | ------- | ------- |
-| 1주차 html 시험    |                                                              |         |         |
-| 2주차 html 시험    | [링크](https://docs.google.com/spreadsheets/d/1G8dxWoL4SDAEbJwl7juh7Lcw236EIY8RsX_SbDtntCc/edit#gid=2057394383) |         |         |
-| 3주차 html,css시험 |      |         |         |
-| 4주차 html시험     |                                                              |         |         |
-
-
 
 #### 1달
 
@@ -602,4 +592,46 @@ Javascript, Node JS, Express, Ejs ,Bootstrap, jQuery, 시멘틱 ui, Mysql, React
 
 
 
+### 4. 개인 과외 (1개월 - 2020.01.01 시작)
 
+## Motivation
+중고급 Front-end Developer로의 성장을 위해 핵심적인 Publishing 능력과, Javascript, 웹 생태계를 보다 깊게 파악하는것이 중요 핵심. 또, 학원생들과 보다 차별 적인 학습과, 코드에 대한 고찰과 반복학습으로 Code Review를 통한 실력 향상에 입각한 개인 과외입니다.
+
+## Build Goal Stack
+
+
+
+***- Goal Portfolio***
+
+------
+
+**Frontend**
+
+Only Publishing Projct 2개
+
+Nodejs Express  + OpenAPI Project 1개 
+
+React Toy Project 5개
+
+React + Redux Project 1개
+
+
+
+**Frontend + Backend**
+
+React  + Redux  + Redux-saga + Nodejs Express Backend Server  + MySQL Database Project 1개
+
+
+
+## Members
+
++ 이준영, 김율겸, 
+
+
+## Tech/framework used
+Javascript, Node JS, Express, Ejs ,Bootstrap, jQuery, React, Redux
+
+
+
+
+### FRONT-END Curriculum (Textbook: Learning JavaScript, Inside JavaScript) - (Proceeding)
