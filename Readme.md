@@ -13,7 +13,7 @@ React, Redux, Redux-saga, Mobx, Websocket, Webworker, qwebchannel, Webpack, Node
 
 **PROJECT MANAGEMENT**
 
-[Management 바로가기](https://github.com/users/Phantom05/projects/1)
+[Management 바로가기]
 
 **USE STACK**
 
