@@ -257,11 +257,10 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 
 
-### 4. [종료] 개인 과외 2018.12.23 ~ 2019.11.31(12개월)
+### 4. [종료] 개인 과외 2018.12.23 ~ 2019.11.31 (12개월)
 
 [2019과외](https://github.com/Hello-Programing/Kizi-Refo)
 
-<hr>
-### 5. 개인 과외  2020.01.01 ~ 진행중
+### 5. [진행] 개인 과외  2020.01.01 ~ 진행중
 
 [2020과외](https://github.com/Phantom05/work_project)
