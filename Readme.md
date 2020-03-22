@@ -1,14 +1,14 @@
-# PORTFOLIO of Phantom05 
+# PORTFOLIO
 
 
 
 ### 5. [진행] 개인 과외  2020.01.01 ~ (진행중)
 
-[2020과외](https://github.com/Phantom05/work_project)
+[2020 과외 진행사항](https://github.com/Phantom05/work_project)
 
 ### 4. [종료] 개인 과외 2018.12.23 ~ 2019.11.31 (12개월)
 
-[2019과외](https://github.com/Hello-Programing/Kizi-Refo)
+[2019 과외 종료](https://github.com/Hello-Programing/Kizi-Refo)
 
 
 
@@ -21,11 +21,9 @@ React, Redux, Redux-saga, Mobx, Websocket, Webworker, qwebchannel, Webpack, Node
 **CONCEPT**
 심도 깊은 자바스크립트 연구를 하기 위해 노력했습니다.
 
-**Website**
-
 **PROJECT MANAGEMENT**
 
-[Management 바로가기]
+Private Gitlab.
 
 **USE STACK**
 
@@ -51,7 +49,7 @@ React, Redux, Redux-saga, Mobx, Websocket, Webworker, qwebchannel, Webpack, Node
 + Socket.io를 이용한 채팅 개발 (사진전송 가능)
 + 70페이지 분량 홈페이지 프론트 개발
 
-**PROJECT.**
+**PROJECT SUMMARY.**
 
 1. ***Electron Launcher***
 
@@ -254,7 +252,7 @@ Express, MySQL, Nodejs, Gulp, AWS로 개발하였습니다.
 
 
 
-**PROJECT.**
+**PROJECT SUMMARY.**
 
 4. ***Remiit***
 
